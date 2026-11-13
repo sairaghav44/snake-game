@@ -4,17 +4,17 @@ A classic Snake game built with **Python** and **Pygame**. This project started 
 
 ## 🎮 Features
 
-- 🐍 Grid-based snake movement
-- 🎮 Arrow-key controls
-- 🍎 Random apple spawning on valid grid positions
-- 🚫 New apples do not spawn on the snake's body
-- 📈 Score tracking
-- 🐍 Snake grows when it eats an apple
-- ↩️ Prevents immediate direction reversal
-- 💥 Self-collision detection
-- 💀 Game Over screen with final score
-- 🔁 Play Again button to restart the game
-- 🧱 Wall-boundary handling
+-  Grid-based snake movement
+-  Arrow-key controls
+-  Random apple spawning on valid grid positions
+-  New apples do not spawn on the snake's body
+-  Score tracking
+-  Snake grows when it eats an apple
+-  Prevents immediate direction reversal
+-  Self-collision detection
+-  Game Over screen with final score
+-  Play Again button to restart the game
+-  Wall-boundary handling
 
 ## 🧩 Versions
 
@@ -77,7 +77,7 @@ py -3.13 snake-game_v02.py
 | → | Move right |
 | Mouse click | Click **Play Again** after Game Over |
 
-## 🌱 About This Project
+##  About This Project
 
 This is a small learning project built while exploring Python and Pygame. The goal is to keep improving it by adding features, understanding the code, and learning from bugs along the way.
 
