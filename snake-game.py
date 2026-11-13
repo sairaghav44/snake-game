@@ -150,4 +150,4 @@ while running:
     pygame.display.flip()
     clock.tick(10)
 
-#py -3.13 snake-game\snake-game.py
+#py -3.13 snake-game.py
